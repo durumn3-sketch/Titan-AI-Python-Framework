@@ -3,7 +3,8 @@ Developer toolkit for Python automation and AI integrations
 ## Full Version (Pro)
 
 Get the full professional package (code + setup guide + examples):
-https://harutyunhakobyan.gumroad.com
+Full project:
+https://harutyunhakobyan.gumroad.com/l/zdmaiw
 
 ### What’s inside
 - Modular Python project structure
